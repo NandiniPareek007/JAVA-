@@ -1,5 +1,5 @@
 //Simply two variables are initalized and the declared and simple operation is performed on them
-class instancedata
+class Instancedata//name of class always starts with a capital letter 
 {
 	int num1;
 	int num2;
@@ -15,7 +15,7 @@ class instancedata
 	}
 	public static void main (String[]args )
 	{
-		instancedata id=new instancedata();
+		Instancedata id=new Instancedata();
 		id.minus();
 	}
 }
