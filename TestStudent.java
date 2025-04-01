@@ -6,3 +6,4 @@
         st.putdetails();
     }
 }
+// This main class is linked with the class StudentUsingScanner.java
