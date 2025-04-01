@@ -21,3 +21,4 @@ class StudentUsingScanner {
     }
    
 }
+//The main class is TestStudent.java
