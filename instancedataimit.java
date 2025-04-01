@@ -1,5 +1,5 @@
 //the variables are declared and multiplication is done 
-class instancedataimit
+class Instancedataimit
 {
 	int num1=15;
 	int num2=3;
@@ -13,7 +13,7 @@ class instancedataimit
 	}
 	public static void main(String []args )
 	{
-		instancedataimit Id=new instancedataimit();
+		Instancedataimit Id=new Instancedataimit();
 		Id.multi();
 		
 	}
